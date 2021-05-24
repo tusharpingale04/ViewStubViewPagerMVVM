@@ -10,3 +10,5 @@ Deferring loading resources is an important technique to use when you have compl
 ViewStub is a lightweight view with no dimension that doesn’t draw anything or participate in the layout. As such, it's cheap to inflate and cheap to leave in a view hierarchy. Each ViewStub simply needs to include the android:layout attribute to specify the layout to inflate.
 
 ![viewstub](https://user-images.githubusercontent.com/42339771/78687522-e022bf80-7911-11ea-9072-3e7005414374.gif)
+
+<img width="1792" alt="Screenshot 2021-04-19 at 5 53 15 PM" src="https://user-images.githubusercontent.com/42339771/119308559-d2053f00-bc8a-11eb-8fea-c99514ba6267.png">
